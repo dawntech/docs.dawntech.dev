@@ -2,14 +2,14 @@
 title: Plugin Zoho CRM
 description: Documentação para uso do plugin Zoho CRM feito pela Dawntech Inc. para a plataforma Take Blip
 title-override: Plugin Zoho CRM
-seo:
-  name: Plugin Zoho CRM
+seo_tag:
+  site_title: Plugin Zoho CRM
 ---
 
 # Documentação do Middleware entre o Blip e o Zoho CRM
 ## Como configurar
 
-1. Crie uma conta em https://www.zoho.com/pt-br/crm/, não é necessário carregar os dados da amostra.
+1. Crie uma conta em [(https://www.zoho.com/pt-br/crm/)], não é necessário carregar os dados da amostra.
 2. Vá para https://api-console.zoho.com/ e clique em 'GET STARTED'.
 3. Clique na opção 'Self Client' e clique em 'CREATE'.
 4. Se for redirecionado para a página abaixo, clique em 'OK'.
