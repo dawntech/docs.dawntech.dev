@@ -2,6 +2,8 @@
 title: Plugin Zoho CRM
 description: Documentação para uso do plugin Zoho CRM feito pela Dawntech Inc. para a plataforma Take Blip
 title-override: Plugin Zoho CRM
+seo:
+  name: Plugin Zoho CRM
 ---
 
 # Documentação do Middleware entre o Blip e o Zoho CRM
