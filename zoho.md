@@ -9,8 +9,8 @@ seo_tag:
 # Documentação do Middleware entre o Blip e o Zoho CRM
 ## Como configurar
 
-1. Crie uma conta em [(https://www.zoho.com/pt-br/crm/)], não é necessário carregar os dados da amostra.
-2. Vá para https://api-console.zoho.com/ e clique em 'GET STARTED'.
+1. Crie uma conta em [https://www.zoho.com/pt-br/crm/](https://www.zoho.com/pt-br/crm/), não é necessário carregar os dados da amostra.
+2. Vá para [https://api-console.zoho.com/](https://api-console.zoho.com/) e clique em 'GET STARTED'.
 3. Clique na opção 'Self Client' e clique em 'CREATE'.
 4. Se for redirecionado para a página abaixo, clique em 'OK'.
 
@@ -77,7 +77,7 @@ seo_tag:
 
     Guarde o refresh_token
 
-13. Acesse https://products.dawntech.dev/ e se já não estiver logado, faça login.
+13. Acesse [https://products.dawntech.dev/](https://products.dawntech.dev/) e se já não estiver logado, faça login.
 14. Clique na opção de configurar o Zoho CRM.
 
     ![image](./images/zoho/tela_products_dawntech.png)
