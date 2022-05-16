@@ -1,5 +1,10 @@
 theme: jekyll-theme-cayman
 title: Plugin Zoho CRM
+title-override: Plugin Zoho CRM
 description: Documentação para uso do plugin Zoho CRM feito pela Dawntech Inc. para a plataforma Take Blip
 show_downloads: false
 lang: pt-BR
+google_analytics: G-RZTLWL2LYY
+author:
+  name: Dawntech Inc.
+  url: https://dawntech.dev
