@@ -73,11 +73,11 @@ title-override: Blip Bucket Viewer | Dawntech Inc.
 
             And click on the check icon.
 
-            ![image](../images/blip-bucket-viewer/en/edit_advanced_settings_2.png)
+            ![image](../images/en/blip-bucket-viewer/edit_advanced_settings_2.png)
 
 5. Refresh the page and find the plugin clicking on the 3 horizontal points.
 
-    ![image](../images/blip-bucket-viewer/en/3_dots.png)
+    ![image](../images/en/blip-bucket-viewer/3_dots.png)
 
 
 You can find more instructions in <https://github.com/takenet/cra-template-blip-plugin/blob/main/template/README.md> at section `Now just add the plugin to your chatbot and enjoy`
