@@ -31,7 +31,7 @@ title-override: Blip Bucket Viewer | Dawntech Inc.
                 "bucket-manager": 
                 {
                     "name": "Bucket Manager",
-                    "url": "http://localhost:3000"
+                    "url": "https://bucket.dawntech.dev/"
                 }
             }
             ``` 
@@ -66,7 +66,7 @@ title-override: Blip Bucket Viewer | Dawntech Inc.
                 "bucket-manager": 
                 {
                     "name": "Bucket Manager",
-                    "url": "http://localhost:3000"
+                    "url": "https://bucket.dawntech.dev/"
                 }
             }
             ```
