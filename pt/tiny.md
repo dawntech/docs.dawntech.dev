@@ -71,7 +71,7 @@ Usuários com permissão de administrador conseguem alterar as informações de 
 |:--:| 
 | **Figura 5**: Exemplo de requisição HTTP no Builder. |
 
-Na URL https://tiny.dawntech.dev/api/<recurso>, <recurso> se refere a operação realizada pela API: listar pedidos do usuário por documento, consultar pedido pelo número do pedido e notificar usuário sobre alteração no status do pedido. Abaixo, são listadas as chamadas passíveis de serem usadas por meio da ação de Requisição HTTP (que também podem ser testadas via Swagger UI disponível no link [https://tiny.dawntech.dev/api/docs/](https://tiny.dawntech.dev/api/docs/)):
+Na URL https://tiny.dawntech.dev/api/<recurso>, <recurso> se refere a operação realizada pela API: listar pedidos do usuário por documento, consultar pedido pelo número do pedido e notificar usuário sobre alteração no status do pedido. Abaixo, são listadas as chamadas passíveis de serem usadas por meio da ação de Requisição HTTP (que também podem ser testadas via Swagger UI disponível no link [https://tiny.dawntech.dev/api/docs/](https://tiny.dawntech.dev/api/docs/) ):
 
 ### Consulta de pedido
 
