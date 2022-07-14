@@ -37,7 +37,7 @@ Além disso, prevemos as seguintes evoluções:
 
 ## Instalação e configuração
 
-Ao ativar a extensão pela Blip Store, ela deverá ser instalada no bot Router. Após sua ativação, você deverá configurar o plugin com o token de acesso a API do Tiny ERP que é específica do cliente, e, portanto, o mesmo deve ser compartilhado pelo contratante. As instruções para a geração desse token de acesso podem ser acessadas em https://tiny.com.br/api-docs/api2-gerar-token-api.
+Ao ativar a extensão pela Blip Store, ela deverá ser instalada no bot Router. Após sua ativação, você deverá configurar o plugin com o token de acesso a API do Tiny ERP que é específica do cliente, e, portanto, o mesmo deve ser compartilhado pelo contratante. As instruções para a geração desse token de acesso podem ser acessadas em [https://tiny.com.br/api-docs/api2-gerar-token-api](https://tiny.com.br/api-docs/api2-gerar-token-api).
 
 Para configurar o plugin, é necessário acessar o bot Router. Na rela inicial do Router, no cabeçalho, clicar em "..." (ao lado da opção Contatos) e acessar Tiny ERP, como ilustrado na figura abaixo (Figura 1).
 
@@ -55,7 +55,7 @@ Além de informar o token, é possível configurar os campos relativos as notifi
 |:--:| 
 | **Figura 3**: Exemplo de template de mensagem e as informações necessárias para configurar a extensão. |
 
-Após a configuração inicial dos parâmetros, é necessário uma última configuração dentro do Tiny ERP. É necessário que o webhook de **Atualizações de situação de pedido** seja configurado utilizando a URL gerada na mesma tela de configuração, na seção *Informações geradas*. Basta clicar no botão com a URL (Figura 4) e seguir as instruções disponíveis em https://www.tiny.com.br/api-docs/api2-webhooks-atualizacao-situacao-pedido.
+Após a configuração inicial dos parâmetros, é necessário uma última configuração dentro do Tiny ERP. É necessário que o webhook de **Atualizações de situação de pedido** seja configurado utilizando a URL gerada na mesma tela de configuração, na seção *Informações geradas*. Basta clicar no botão com a URL (Figura 4) e seguir as instruções disponíveis em [https://www.tiny.com.br/api-docs/api2-webhooks-atualizacao-situacao-pedido](https://www.tiny.com.br/api-docs/api2-webhooks-atualizacao-situacao-pedido).
 
 | ![Figura 4](../images/pt/tiny/Figura_4.png) | 
 |:--:| 
@@ -71,7 +71,7 @@ Usuários com permissão de administrador conseguem alterar as informações de 
 |:--:| 
 | **Figura 5**: Exemplo de requisição HTTP no Builder. |
 
-Na URL https://tiny.dawntech.dev/api/<recurso>, <recurso> se refere a operação realizada pela API: listar pedidos do usuário por documento, consultar pedido pelo número do pedido e notificar usuário sobre alteração no status do pedido. Abaixo, são listadas as chamadas passíveis de serem usadas por meio da ação de Requisição HTTP (que também podem ser testadas via Swagger UI disponível no link https://tiny.dawntech.dev/api/docs/):
+Na URL https://tiny.dawntech.dev/api/<recurso>, <recurso> se refere a operação realizada pela API: listar pedidos do usuário por documento, consultar pedido pelo número do pedido e notificar usuário sobre alteração no status do pedido. Abaixo, são listadas as chamadas passíveis de serem usadas por meio da ação de Requisição HTTP (que também podem ser testadas via Swagger UI disponível no link [https://tiny.dawntech.dev/api/docs/](https://tiny.dawntech.dev/api/docs/)):
 
 ### Consulta de pedido
 
