@@ -18,3 +18,32 @@ title-override: Título da Aba | Dawntech Inc.
 ---
 ```
 - Após o push para main, o GitHub Actions (https://github.com/dawntech/docs.dawntech.dev/actions) vai transformar os arquivos em um site estático, disponível em https://docs.dawntech.dev
+
+## Como adicionar imagens
+
+Ideal manter um padrão na formatação das páginas. Recomendo o uso dos seguintes formatos:
+
+- Imagem com legenda:
+
+```
+| ![Figura 1](./images/example.png) | 
+|:--:| 
+| **Figura 1**: Exemplo de legenda. |
+```
+
+| ![Figura 1](./images/example.png) | 
+|:--:| 
+| **Figura 1**: Exemplo de legenda. |
+
+- Apenas imagem:
+
+```
+| ![Figura 1](./images/example.png) | 
+|:--:|
+```
+
+| ![Figura 1](./images/example.png) | 
+|:--:| 
+
+
+
