@@ -192,10 +192,10 @@ Na URL https://tiny.dawntech.dev/api/<recurso>, <recurso> se refere a operação
 
 ## Dependências
 
-Para que a extensão funcione corretamente, é necessário uma instalação funcional do Tiny ERP com a extensão Token API habilitada (conforme https://tiny.com.br/api-docs/api2-gerar-token-api).
+Para que a extensão funcione corretamente, é necessário uma instalação funcional do Tiny ERP com a extensão Token API habilitada (conforme [https://tiny.com.br/api-docs/api2-gerar-token-api](https://tiny.com.br/api-docs/api2-gerar-token-api)).
 
 
 
 ## Termos de uso
 
-Ao instalar esta extensão você concorda com os termos de uso descritos em https://dawntech.dev/privacy, política válida também para o uso dos dados coletados coletados aqui (se necessário).
+Ao instalar esta extensão você concorda com os termos de uso descritos em [https://dawntech.dev/privacy](https://dawntech.dev/privacy), política válida também para o uso dos dados coletados coletados aqui (se necessário).
