@@ -1,8 +1,12 @@
 ---
-title: Tiny ERP
-description: 
-title-override: Plugin Tiny ERP | Dawntech Inc.
+title: Plugin Tiny ERP
+description: Documentação para uso do plugin Tiny ERP feito pela Dawntech Inc. para a plataforma Take Blip
+title-override: Plugin Tiny ERP
+seo_tag:
+  site_title: Plugin Tiny ERP
 ---
+
+
 ## Introdução
 
 A extensão Tiny ERP foi desenvolvida pela empresa Dawntech. Atualmente, ela se encontra na versão 1.0 e está
