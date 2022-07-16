@@ -1,7 +1,7 @@
 ---
-title: Blip Bucket Viewer
+title: Blip Bucket Manager
 description: 
-title-override: Blip Bucket Viewer | Dawntech Inc.
+title-override: Blip Bucket Manager | Dawntech Inc.
 ---
 # Como instalar o plugin no Blip
 

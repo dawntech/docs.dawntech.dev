@@ -12,7 +12,7 @@ title-override: Documentação | Dawntech Inc.
 
 - [Tiny ERP 🇧🇷](pt/tiny)
 
-## Blip Bucket Viewer
+## Blip Bucket Manager
 
-- [Blip Bucket Viewer 🇺🇸](en/blip-bucket-viewer)
-- [Blip Bucket Viewer 🇧🇷](pt/blip-bucket-viewer)
+- [Blip Bucket Manager 🇺🇸](en/blip-bucket-viewer)
+- [Blip Bucket Manager 🇧🇷](pt/blip-bucket-viewer)
