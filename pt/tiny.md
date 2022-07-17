@@ -198,4 +198,8 @@ Para que a extensão funcione corretamente, é necessário uma instalação func
 
 ## Termos de uso
 
-Ao instalar esta extensão você concorda com os termos de uso descritos em [https://dawntech.dev/privacy](https://dawntech.dev/privacy), política válida também para o uso dos dados coletados coletados aqui (se necessário).
+Ao instalar esta extensão você concorda com os termos de uso descritos em [https://dawntech.dev/privacy](https://dawntech.dev/privacy), política válida também para o uso dos dados coletados coletados pelo plugin (se / quando necessário).
+
+## SLA
+
+O SLA desse e outros plugins da Dawntech Inc. podem ser acessados em <https://status.dawntech.dev>.

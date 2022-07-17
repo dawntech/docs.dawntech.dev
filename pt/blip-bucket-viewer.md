@@ -3,7 +3,8 @@ title: Blip Bucket Manager
 description: 
 title-override: Blip Bucket Manager | Dawntech Inc.
 ---
-# Como instalar o plugin no Blip
+
+## Como instalar o plugin no Blip
 
 1. Vá nas configurações do bot.
 
@@ -80,4 +81,12 @@ title-override: Blip Bucket Manager | Dawntech Inc.
     ![image](../images/pt/blip-bucket-viewer/3_dots.png)
 
 
-Você pode achar mais instruções em <https://github.com/takenet/cra-template-blip-plugin/blob/main/template/README.md> na seção `Now just add the plugin to your chatbot and enjoy`
+Você pode achar mais instruções em <https://github.com/takenet/cra-template-blip-plugin/blob/main/template/README.md> na seção `Now just add the plugin to your chatbot and enjoy`.
+
+## Termos de uso
+
+Ao instalar esta extensão você concorda com os termos de uso descritos em [https://dawntech.dev/privacy](https://dawntech.dev/privacy), política válida também para o uso dos dados coletados coletados pelo plugin (se / quando necessário).
+
+## SLA
+
+O SLA desse e outros plugins da Dawntech Inc. podem ser acessados em <https://status.dawntech.dev>.
