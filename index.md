@@ -14,5 +14,5 @@ title-override: Documentações | Dawntech Inc.
 
 ## Blip Bucket Manager
 
-- [Blip Bucket Manager 🇺🇸](en/blip-bucket-manager)
-- [Blip Bucket Manager 🇧🇷](pt/blip-bucket-manager)
+- [Blip Bucket Manager 🇺🇸](en/blip-bucket-viewer)
+- [Blip Bucket Manager 🇧🇷](pt/blip-bucket-viewer)

@@ -29,7 +29,7 @@ title-override: Blip Bucket Manager | Dawntech Inc.
         2. Coloque no campo 'Valor' o seguinte JSON:
             ```
             {
-                "bucket-manager": 
+                "bucket-viewer": 
                 {
                     "name": "Bucket Manager",
                     "url": "https://bucket.dawntech.dev/"
@@ -64,7 +64,7 @@ title-override: Blip Bucket Manager | Dawntech Inc.
                     "name": "Some Random Plugin",
                     "url": "https://some-random-plugin-url.com"
                 },
-                "bucket-manager": 
+                "bucket-viewer": 
                 {
                     "name": "Bucket Manager",
                     "url": "https://bucket.dawntech.dev/"
