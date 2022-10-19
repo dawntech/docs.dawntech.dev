@@ -68,6 +68,7 @@ A extensão provê dois endpoints HTTP:
     ```
 
 Consulta do Estado da Jornada de um contato (GET):
+
 - URL: `https://dribble.dwnt.store/api/contacts/{contact.identity}`
 
 | ![Figura 3](../images/pt/dribble/Figura_3.png) | 
@@ -155,41 +156,45 @@ No contexto de assistentes virtuais, podemos ter um chatbot que apresente um cat
 }
 ```
 
+Para cada tipo de ação, é possível configurar duas propriedades: *condition* e *delay*. A primeira define a condição necessária para que uma ação execute (podendo ser tanto com base nas informações do contato ou a de um evento recebido) e a segunda o tempo para que esta ação seja executada, definida em horas. Além das ações de envio de notificação, é possível configurar as seguintes ações, com as opções de condition e delay sendo opcionais:
 
-Para cada tipo de ação, é possível configurar duas propriedades: condition e delay. A primeira define a condição necessária para que uma ação execute (podendo ser tanto com base nas informações do contato ou a de um evento recebido) e a segunda o tempo para que esta ação seja executada, definida em horas. Além das ações de envio de notificação, é possível configurar as seguintes ações, com as opções de condition e delay sendo opcionais:
-Chamada HTTP do tipo GET:
-```json
-type: "http",
-method: "get",
-url: "https://dawntech.dev",
-headers: [
-  ...
-]
-```
+- Chamada HTTP do tipo GET:
+  ```json
+  {
+      "type": "http",
+      "method": "get",
+      "url": "https://dawntech.dev",
+      "headers": [
+        // ...
+      ]
+  }
+  ```
 
+- Chamada HTTP do tipo POST:
+  ```json
+  {
+      "type": "http",
+      "method": "post",
+      "url": "https://dawntech.dev",
+      "headers": [
+        // ...
+      ],
+      "body": [
+        // ...
+      ]
+  }
+  ```
 
-Chamada HTTP do tipo POST:
-```json
-type: "http",
-method: "post",
-url: "https://dawntech.dev",
-headers: [
-  ...
-],
-body: [
-  ...
-]
-```
-
-
-Atualizar contato:
-```json
-type: "update-contact",
-data: {
-  name: "..."
-  ...
-}
-```
+- Atualizar contato:
+  ```json
+  {
+    "type": "update-contact",
+      "data": {
+        "name": "...",
+        // ...
+      }
+  }
+  ```
 
 
 
