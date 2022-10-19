@@ -1,9 +1,9 @@
 ---
-title: Plugin Tiny ERP
-description: Documentação para uso do plugin Tiny ERP feito pela Dawntech Inc. para a plataforma Take Blip
-title-override: Plugin Tiny ERP
+title: Extensão Tiny ERP
+description: Documentação para uso da extensão Tiny ERP feito pela Dawntech Inc. para a plataforma Take Blip
+title-override: Extensão Tiny ERP
 seo_tag:
-  site_title: Plugin Tiny ERP
+  site_title: Extensão Tiny ERP
 ---
 
 
@@ -37,13 +37,13 @@ Além disso, prevemos as seguintes evoluções:
 
 ## Instalação e configuração
 
-Ao ativar a extensão pela Blip Store, ela deverá ser instalada no bot Router. Após sua ativação, você deverá configurar o plugin com o token de acesso a API do Tiny ERP que é específica do cliente, e, portanto, o mesmo deve ser compartilhado pelo contratante. As instruções para a geração desse token de acesso podem ser acessadas em [https://tiny.com.br/api-docs/api2-gerar-token-api](https://tiny.com.br/api-docs/api2-gerar-token-api).
+Ao ativar a extensão pela Blip Store, ela deverá ser instalada no bot Router. Após sua ativação, você deverá configurar a extensão com o token de acesso a API do Tiny ERP que é específica do cliente, e, portanto, o mesmo deve ser compartilhado pelo contratante. As instruções para a geração desse token de acesso podem ser acessadas em [https://tiny.com.br/api-docs/api2-gerar-token-api](https://tiny.com.br/api-docs/api2-gerar-token-api).
 
-Para configurar o plugin, é necessário acessar o bot Router. Na rela inicial do Router, no cabeçalho, clicar em "..." (ao lado da opção Contatos) e acessar Tiny ERP, como ilustrado na figura abaixo (Figura 1).
+Para configurar a extensão, é necessário acessar o bot Router. Na rela inicial do Router, no cabeçalho, clicar em "..." (ao lado da opção Contatos) e acessar Tiny ERP, como ilustrado na figura abaixo (Figura 1).
 
 | ![Figura 1](../images/pt/tiny/Figura_1.png) | 
 |:--:| 
-| **Figura 1**: Como acessar as configurações do plugin. |
+| **Figura 1**: Como acessar as configurações da extensão. |
 
 Além de informar o token, é possível configurar os campos relativos as notificações automáticas, por meio dos dampos prefixados com *Atualização de status de pedido*: *namespace*, nome do modelo, ID do fluxo e do estado de retorno do usuário após receber a notificação. O *namespace* e nome do modelo são obtidos consultando a página de Conteúdos do bot Router (clicar em "...", ao lado da opção Contatos) e em seguida "Modelos de Mensagens" (Figura 2 e 3).
 
@@ -65,7 +65,7 @@ Após a configuração inicial dos parâmetros, é necessário uma última confi
 
 ## Manual de uso por perfil
 
-Usuários com permissão de administrador conseguem alterar as informações de configuração da extensão, além de adicionar ao Builder chamadas específicas para o plugin, que utiliza as configurações supracitadas. Para isso, é necessário configurar uma ação de Requisição HTTP chamando a URL https://tiny.dawntech.dev/api/<recurso> com dois Cabeçalhos HTTP: **takeblip-bot-key** e **takeblip-tenant-id**, sendo a chave de acesso do bot onde a extensão foi instalada e o nome do contrato, respectivamente (conforme ilustrado na Figura 5).
+Usuários com permissão de administrador conseguem alterar as informações de configuração da extensão, além de adicionar ao Builder chamadas específicas para a extensão, que utiliza as configurações supracitadas. Para isso, é necessário configurar uma ação de Requisição HTTP chamando a URL https://tiny.dawntech.dev/api/<recurso> com dois Cabeçalhos HTTP: **takeblip-bot-key** e **takeblip-tenant-id**, sendo a chave de acesso do bot onde a extensão foi instalada e o nome do contrato, respectivamente (conforme ilustrado na Figura 5).
 
 | ![Figura 5](../images/pt/tiny/Figura_5.png) | 
 |:--:| 
@@ -198,8 +198,8 @@ Para que a extensão funcione corretamente, é necessário uma instalação func
 
 ## Termos de uso
 
-Ao instalar esta extensão você concorda com os termos de uso descritos em [https://dawntech.dev/privacy](https://dawntech.dev/privacy), política válida também para o uso dos dados coletados coletados pelo plugin (se / quando necessário).
+Ao instalar esta extensão você concorda com os termos de uso descritos em [https://dawntech.dev/privacy](https://dawntech.dev/privacy), política válida também para o uso dos dados coletados coletados pela extensão (se / quando necessário).
 
 ## SLA
 
-O SLA desse e outros plugins da Dawntech Inc. podem ser acessados em <https://status.dawntech.dev>.
+O SLA desse e outras extensões da Dawntech Inc. podem ser acessados em [https://status.dawntech.dev](https://status.dawntech.dev).
