@@ -102,6 +102,20 @@ Essas informações serão salvas em campos extras do contato, a não ser que a 
 - transporte.tipo_frete
 - transporte.qtde_volumes
 
+### Eventos criados a cada atualização de pedido
+Esses eventos que são criados podem ser utilizados para geração de relatórios na aba de Relatórios Personalizados dentro do menu de Analytics do roteador onde a extensão está ativada:
+* AtualizacoesContato
+  * Valor: fone - chave: valor
+* PedidosErroTrocaEstado
+  * Valor: Número do pedido
+* FonesErroEnvioNotificacao
+  * Valor: Celular do cliente onde a notificação falhou
+* PedidosErroEnvioNotificacao
+  * Valor: Número do pedido onde a notificação falhou
+* NotificacoesPedidos
+  * Valor: Número do pedido
+* NotificacoesTipo
+  * Valor: Status do pedido no Bling
 
 ## Dependências
 
