@@ -46,7 +46,7 @@ Para utilizar a extensão Bling em um contato inteligente, no bot Router associa
 6. Em "Tipo de retorno no callback", selecione a opção "JSON".
 7. Ative a opção "Callback de pedidos de venda".
 8. Cole a URL obtida na extensão no campo ativado.
-9. Clique em "Salvar"
+9. Clique em "Salvar".
 ![Configs](../images/pt/bling/bling_3.jpg)
 10. Ao mudar um status no pedido de venda, o usuário que possui o celular salvo no pedido recebe uma notificação no WhatsApp e é direcionado ao fluxo correspondente às configurações escolhidas.
 ![WhatsApp](../images/pt/bling/bling_2.jpg)
