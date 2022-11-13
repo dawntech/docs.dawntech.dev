@@ -1,9 +1,9 @@
 ---
-title: Extensão Dribble
+title: Extensão Dribble by Dawntech @ Blip Store
 description: Documentação para uso da extensão Dribble desenvolvida pela Dawntech Inc. para a plataforma Take Blip
-title-override: Extensão Dribble
+title-override: Extensão Dribble by Dawntech
 seo_tag:
-  site_title: Extensão Dribble
+  site_title: Extensão Dribble by Dawntech
 ---
 
 

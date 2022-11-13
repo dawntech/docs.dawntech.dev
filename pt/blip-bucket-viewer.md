@@ -1,5 +1,5 @@
 ---
-title: Blip Bucket Manager
+title: Blip Bucket Manager @ Blip Store
 description: 
 title-override: Blip Bucket Manager | Dawntech Inc.
 ---

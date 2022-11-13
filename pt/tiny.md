@@ -1,9 +1,9 @@
 ---
-title: Extensão Tiny ERP
+title: Extensão Tiny ERP @ Blip Store
 description: Documentação para uso da extensão Tiny ERP feito pela Dawntech Inc. para a plataforma Take Blip
-title-override: Extensão Tiny ERP
+title-override: Extensão Tiny ERP @ Blip Store
 seo_tag:
-  site_title: Extensão Tiny ERP
+  site_title: Extensão Tiny ERP @ Blip Store
 ---
 
 
