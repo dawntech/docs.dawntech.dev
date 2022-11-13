@@ -31,23 +31,24 @@ As seguintes funcionalidades são oferecidas:
 Além disso, prevemos as seguintes evoluções:
 
 - Mais funcionalidades do Bling, explorando mais a parte de produtos.
+- Notificações para a funcionalidade de notas fiscais.
 
 ## Instalação e configuração
-1. Instale a extensão no roteador do seu contato inteligente.
-2. Preencha as informações conforme o [vídeo de demonstração](https://www.youtube.com/watch?v=sMDrECb6TUI).
+Para utilizar a extensão Bling em um contato inteligente, no bot Router associado ao contrato, vá até a BlipStore e procure a extensão Bling na aba de Extensões. Quando o encontrar, a ative nesse mesmo bot. Após a instalação, ao abrir o bot Router, as opções de configuração da extensão Bling estarão disponíveis. Então, siga os passos a seguir:
+1. Preencha as informações conforme o [vídeo de demonstração](https://www.youtube.com/watch?v=sMDrECb6TUI).
 ![Callback](../images/pt/bling/bling_0.jpg)
-3. Copie a URL de webhook.
+2. Copie a URL de webhook.
 ![Webhook](../images/pt/bling/bling_1.jpg)
-4. Acesse as Configurações de Integrações do Bling em [www.bling.com.br/configuracoes.integracoes.lojas.virtuais.php#list](https://www.bling.com.br/configuracoes.integracoes.lojas.virtuais.php#list).
-5. Em "Pesquise por uma plataforma ou marketplace", busque por "API", e adicione a "bling API", conforme screenshot abaixo:
+3. Acesse as Configurações de Integrações do Bling em [www.bling.com.br/configuracoes.integracoes.lojas.virtuais.php#list](https://www.bling.com.br/configuracoes.integracoes.lojas.virtuais.php#list).
+4. Em "Pesquise por uma plataforma ou marketplace", busque por "API", e adicione a "bling API", conforme screenshot abaixo:
 ![Bling API](../images/pt/bling/bling_4.png)
-6. Vá na opção "Callbacks".
-7. Em "Tipo de retorno no callback", selecione a opção "JSON".
-8. Ative a opção "Callback de pedidos de venda".
-9. Cole a URL obtida na extensão no campo ativado.
-10. Clique em "Salvar"
+5. Abra a opção de configuração de integrações e vá na opção “Callbacks”.
+6. Em "Tipo de retorno no callback", selecione a opção "JSON".
+7. Ative a opção "Callback de pedidos de venda".
+8. Cole a URL obtida na extensão no campo ativado.
+9. Clique em "Salvar"
 ![Configs](../images/pt/bling/bling_3.jpg)
-11. Ao mudar um status no pedido de venda, o usuário que possui o celular salvo no pedido recebe uma notificação no WhatsApp e é direcionado ao fluxo correspondente às configurações escolhidas.
+10. Ao mudar um status no pedido de venda, o usuário que possui o celular salvo no pedido recebe uma notificação no WhatsApp e é direcionado ao fluxo correspondente às configurações escolhidas.
 ![WhatsApp](../images/pt/bling/bling_2.jpg)
 
 ## Propriedades para salvar nos extras dos contatos
