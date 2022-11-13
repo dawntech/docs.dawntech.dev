@@ -25,15 +25,11 @@ As seguintes funcionalidades são oferecidas:
 
 - Atualizações de contato.
 - Notificações de status de pedido no WhatsApp.
-- Eventos de sucesso e erros criados no Blip Analytics automaticamente."
+- Eventos de sucesso e erros criados no Blip Analytics automaticamente.
 
-Além disso, prevemos as seguintes evoluções:
-
-- Mais funcionalidades do Bling, explorando mais a parte de produtos.
-- Notificações para a funcionalidade de notas fiscais.
 
 ## Instalação e configuração
-Para utilizar a extensão Bling em um contato inteligente, no bot Router associado ao contrato, vá até a BlipStore e procure a extensão Bling na aba de Extensões. Quando o encontrar, a ative nesse mesmo bot. Após a instalação, ao abrir o bot Router, as opções de configuração da extensão Bling estarão disponíveis. Então, siga os passos a seguir:
+Para utilizar a extensão Bling em um contato inteligente, no bot Router associado ao contrato, vá até a Blip Store e procure a extensão Bling na aba de Extensões. Quando o encontrar, a ative nesse mesmo bot. Após a instalação, ao abrir o bot Router, as opções de configuração da extensão Bling estarão disponíveis. Então, siga os passos a seguir:
 1. Preencha as informações conforme o [vídeo de demonstração](https://www.youtube.com/watch?v=sMDrECb6TUI).
 ![Callback](../images/pt/bling/bling_0.jpg)
 2. Copie a URL de webhook.
@@ -101,7 +97,7 @@ Essas informações serão salvas em campos extras do contato, a não ser que a 
 - transporte.tipo_frete
 - transporte.qtde_volumes
 
-### Eventos criados a cada atualização de pedido
+## Eventos criados a cada atualização de pedido
 Esses eventos que são criados podem ser utilizados para geração de relatórios na aba de Relatórios Personalizados dentro do menu de Analytics do roteador onde a extensão está ativada:
 * AtualizacoesContato
   * Valor: fone - chave: valor
