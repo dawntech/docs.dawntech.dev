@@ -23,9 +23,8 @@ A extensão Bling ERP foi desenvolvida tendo como objetivo a integração simpli
 
 As seguintes funcionalidades são oferecidas:
 
-- Criação de pedido.
-- Cadastro de contato.
-- Atualização de status de pedido no WhatsApp.
+- Atualizações de contato.
+- Notificações de status de pedido no WhatsApp.
 - Eventos de sucesso e erros criados no Blip Analytics automaticamente."
 
 Além disso, prevemos as seguintes evoluções:
