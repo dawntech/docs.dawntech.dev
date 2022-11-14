@@ -30,14 +30,16 @@ As seguintes funcionalidades são oferecidas:
 
 Para utilizar a extensão Nuvemshop em um contato inteligente, no bot Router associado ao contrato, vá até a Blip Store e procure a extensão Nuvemshop na aba de Extensões. Quando o encontrar, a ative nesse mesmo bot. Após a instalação, ao abrir o bot Router, as opções de configuração da extensão Nuvemshop estarão disponíveis. Então, siga os passos a seguir:
 1. Preencha as informações conforme o [vídeo de demonstração](https://www.youtube.com/watch?v=nuvemshop).
+![Callback](../images/pt/nuvemshop/nuvem_0.jpg)
 2. Copie a URL de webhook na parte inferior das configurações da extensão.
+![Webhooks](../images/pt/nuvemshop/nuvem_1.jpg)
 3. Acesse a documentação da API de integração da Nuvemshop [https://tiendanube.github.io/api-documentation/intro](https://tiendanube.github.io/api-documentation/intro).
 4. Em "API Resources" vá até a sessão de "Webhooks". Ali será explicado como criar um webhooh e como adicionar a URL copiada no primeiro passo.
 5. Vá na opção "Callbacks".
 6. Em "Tipo de retorno no callback", selecione a opção "JSON".
 7. Ative a opção "Callback de pedidos de venda".
 8. Cole a URL obtida na extensão no campo ativado.
-9.  Clique em "Salvar"
+9.  Clique em "Salvar".
 
 ## Propriedades da Nuvemshop que podem ser usadas:
 
