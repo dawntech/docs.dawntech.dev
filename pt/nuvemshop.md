@@ -13,7 +13,7 @@ A extensão Nuvemshop foi desenvolvida pela empresa Dawntech Inc., e atualmente 
 
 Integrando diretamente a plataforma Blip com a Nuvemshop, essa extensão possibilita a atualização de status via mensagens ativas no WhatsApp e o salvamento de informações variadas nos contatos do Blip, a cada mudança de status monitorado na Nuvemshop.
 
-Este manual tem como objetivo auxiliar os usuários da plataforma Blip na instalação, configuração e utilização da extensão Nuvemshop ERP. Em adendo, qualquer dúvida de uso pode ser encaminhada para [helpdesk@dawntech.dev](mailto:helpdesk@dawntech.dev) ou entrando em contato pelo número [+55 51 3557-2998](https://wa.me/555135572998).
+Este manual tem como objetivo auxiliar os usuários da plataforma Blip na instalação, configuração e utilização da extensão Nuvemshop. Em adendo, qualquer dúvida de uso pode ser encaminhada para [helpdesk@dawntech.dev](mailto:helpdesk@dawntech.dev) ou entrando em contato pelo número [+55 51 3557-2998](https://wa.me/555135572998).
 
 
 ## Sobre a extensão
@@ -22,14 +22,14 @@ A extensão Nuvemshop foi desenvolvida tendo como objetivo a integração simpli
 
 As seguintes funcionalidades são oferecidas:
 
+- Atualizações de contato.
 - Atualização de status de pedido no WhatsApp.
-- Eventos de sucesso e erros criados no Blip Analytics automaticamente.
 - Eventos de sucesso e erros criados no Blip Analytics automaticamente.
 
 ## Instalação e configuração
 
 Para utilizar a extensão Nuvemshop em um contato inteligente, no bot Router associado ao contrato, vá até a Blip Store e procure a extensão Nuvemshop na aba de Extensões. Quando o encontrar, a ative nesse mesmo bot. Após a instalação, ao abrir o bot Router, as opções de configuração da extensão Nuvemshop estarão disponíveis. Então, siga os passos a seguir:
-1. Preencha as informações conforme o [vídeo de demonstração](https://www.youtube.com/watch?v=nuvemshop).
+1. Preencha as informações conforme o [vídeo de demonstração](https://www.youtube.com/watch?v=ontlU0CweBE).
 ![Callback](../images/pt/nuvemshop/nuvem_0.jpg)
 2. Copie a URL de webhook na parte inferior das configurações da extensão.
 ![Webhooks](../images/pt/nuvemshop/nuvem_1.jpg)
@@ -40,6 +40,8 @@ Para utilizar a extensão Nuvemshop em um contato inteligente, no bot Router ass
 7. Ative a opção "Callback de pedidos de venda".
 8. Cole a URL obtida na extensão no campo ativado.
 9.  Clique em "Salvar".
+10. Ao mudar um status no pedido, o usuário que possui o celular salvo no pedido recebe uma notificação no WhatsApp e é direcionado ao fluxo correspondente às configurações escolhidas.
+![WhatsApp](../images/pt/nuvemshop/nuvem_2.jpg)
 
 ## Propriedades da Nuvemshop que podem ser usadas:
 
@@ -122,9 +124,9 @@ Esses eventos que são criados podem ser utilizados para geração de relatório
 
 ## Dependências
 
-Para que a extensão funcione corretamente, é necessário uma instalação funcional da Nuvemshop ERP com a API key habilitada (conforme o [link](https://ajuda.Nuvemshop.com.br/hc/pt-br/articles/360035558634-Usu%C3%A1rio-e-Usu%C3%A1rio-API#h_9ab0c0af-fa03-4c1b-acfe-a0b9fef8ae05)).
+Para que a extensão funcione corretamente, é necessária a criação e configuração de um aplicativo na loja, para que se obtenha a API key e a store_id para a criação do webhook utilizado por essa extenção (documentação no [link](https://atendimento.nuvemshop.com.br/pt_BR/parceiros-tecnologicos/como-fazer-um-aplicativo-para-a-loja-de-aplicativos-nuvemshop)).
 
-Além disso, o campo "Celular" deve estar sempre presente dentro do campo "Cliente" dos pedidos, e deve conter apenas o DDD e o número de celular (WhatsApp).
+Além disso, o campo “contact_phone” deve estar sempre presente dentro do pedido, e deve conter apenas o DDD e o número de celular (WhatsApp).
 
 
 ## Termos de uso
