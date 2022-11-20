@@ -34,13 +34,9 @@ Para utilizar a extensão Nuvemshop em um contato inteligente, no bot Router ass
 2. Copie a URL de webhook na parte inferior das configurações da extensão.
 ![Webhooks](../images/pt/nuvemshop/nuvem_1.jpg)
 3. Acesse a documentação da API de integração da Nuvemshop em [https://tiendanube.github.io/api-documentation/intro](https://tiendanube.github.io/api-documentation/intro).
-4. Em "API Resources" vá até a sessão de "Webhooks". Ali será explicado como criar um webhooh e como adicionar a URL copiada no primeiro passo.
-5. Vá na opção "Callbacks".
-6. Em "Tipo de retorno no callback", selecione a opção "JSON".
-7. Ative a opção "Callback de pedidos de venda".
-8. Cole a URL obtida na extensão no campo ativado.
-9.  Clique em "Salvar".
-10. Ao mudar um status no pedido, o usuário que possui o celular salvo no pedido recebe uma notificação no WhatsApp e é direcionado ao fluxo correspondente às configurações escolhidas.
+4. Em “API Resources” vá até a sessão de “Webhooks”. Ali será explicado como criar um webhook e como adicionar a URL copiada no primeiro passo (no [vídeo](https://www.youtube.com/watch?v=ontlU0CweBE) é apresentado como fazer isso na API da Nuvemshop).
+5. Cada status de pedido deve ter um webhook cadastrado.
+6.  Ao mudar um status no pedido, o usuário que possui o celular salvo no pedido recebe uma notificação no WhatsApp e é direcionado ao fluxo correspondente às configurações escolhidas.
 ![WhatsApp](../images/pt/nuvemshop/nuvem_2.jpg)
 
 ## Propriedades da Nuvemshop que podem ser usadas:
