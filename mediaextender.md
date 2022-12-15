@@ -1,9 +1,9 @@
 ---
-title: Plugin Mídia Extender
+title: Plugin Media Extender
 description: Documentação para uso do plugin Media Extender feito pela Dawntech Inc. para a plataforma Take Blip
 title-override: Plugin Media Extender
 seo_tag:
-  site_title: Plugin Mídia Extender
+  site_title: Plugin Media Extender
 ---
 
 # Documentação do plugin Media Extender
@@ -22,25 +22,11 @@ As mídias são armazenadas e acessadas com links expirados. Após a data de exp
 ## Instalação e configuração
 Para utilizar a extensão Bling em um contato inteligente, no bot Router associado ao contrato, vá até a Blip Store e procure a extensão Media Extender na aba de Extensões. Quando o encontrar, a ative nesse mesmo bot.
 
-1. Localize a extensão no router conforme os pontos 1 e 2 da imagem abaixo.
-
-![Start](./images/mediaextender/media-extender1.jpeg)
-
-2. Copie a URL da midia.
-
-![UrlCopy](./images/mediaextender/media-extender2.jpeg)
-
-3. Cole no input url do form.
-
-![UrlPaste](./images/mediaextender/media-extender3.jpeg)
-
-4. Clique em atualizar e a nova url será copiada para area de transferencia.
-
-![UrlMsg](./images/mediaextender/media-extender4.jpeg)
-![UrlMsgCopy](./images/mediaextender/media-extender5.jpeg)
-
-5. Cole a url copiada na barra de endereço do navegador e acesse.
-
+1. Localize a extensão no router conforme os pontos 1 e 2 da imagem abaixo.  ![Start](./images/mediaextender/media-extender1.jpeg)
+2. Copie a URL da midia.  ![UrlCopy](./images/mediaextender/media-extender2.jpeg)
+3. Cole no input url do form.  ![UrlPaste](./images/mediaextender/media-extender3.jpeg)
+4. Clique em atualizar e a nova url será copiada para area de transferencia.  ![UrlMsg](./images/mediaextender/media-extender4.jpeg)  ![UrlMsgCopy](./images/mediaextender/media-extender5.jpeg)
+5. Cole a url copiada na barra de endereço do navegador e acesse.  
 6. Em caso de duvidas acesso nosso video de demonstração [vídeo de demonstração](https://www.youtube.com/watch?v=sMDrECb6TUI).
 
 ## Termos de uso
