@@ -12,8 +12,6 @@ seo_tag:
 A extensão Media Extender foi desenvolvida pela empresa Dawntech. Atualmente, ela se encontra na versão 1.0 e está
 disponível nos idiomas Português do Brasil, Espanhol e Inglês.
 
-Por segurança os arquivos enviados pelos clientes no blip desk possuem um prazo para expiração, o Media Extender permite a renovação das urls desses arquivos, assim é possivél acessa-las novamente.
-
 Este manual tem como objetivo auxiliar os usuários da plataforma Blip na instalação, configuração e utilização da extensão Media Extender. Em adendo, qualquer dúvida de uso pode ser encaminhada para [helpdesk@dawntech.dev](mailto:helpdesk@dawntech.dev) ou entrando em contato pelo número [+55 51 3557-2998](https://wa.me/555135572998).
 
 
