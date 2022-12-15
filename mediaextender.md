@@ -17,7 +17,7 @@ Este manual tem como objetivo auxiliar os usuários da plataforma Blip na instal
 
 ## Sobre a extensão
 
-As mídias são armazenadas e acessadas com links expirados. Após a data de expiração, o link de mídia fica indisponível. A extensão Media Extender foi desenvolvida para recuperar uma url nova e válida para ver a mídia de forma amigavél.
+As mídias são armazenadas e acessadas com links expirados. Após a data de expiração, o link de mídia fica indisponível. A extensão Media Extender foi desenvolvida para recuperar uma url nova e válida para ver a mídia de forma amigável.
 
 ## Instalação e configuração
 Para utilizar a extensão Bling em um contato inteligente, no bot Router associado ao contrato, vá até a Blip Store e procure a extensão Media Extender na aba de Extensões. Quando o encontrar, a ative nesse mesmo bot.
@@ -39,4 +39,4 @@ Em caso de duvidas acesso nosso video de demonstração [vídeo de demonstraçã
 
 ## Termos de uso
 
-Ao instalar esta extensão você concorda com os termos de uso descritos em [dawntech.dev/privacy](https://dawntech.dev/privacy/pt), política válida também para o uso dos dados coletados coletados pelo plugin (se / quando necessário).
+Ao instalar esta extensão você concorda com os termos de uso descritos em [dawntech.dev/privacy](https://dawntech.dev/privacy/pt), política válida também para o uso dos dados coletados pela extensão (se / quando necessário).
