@@ -1,12 +1,12 @@
 ---
-title: Plugin Media Extender
-description: Documentação para uso do plugin Media Extender feito pela Dawntech Inc. para a plataforma Take Blip
-title-override: Plugin Media Extender
+title: Extensão Media Extender
+description: Documentação para uso da extensão Media Extender feito pela Dawntech Inc. para a plataforma Take Blip
+title-override: Extensão Media Extender
 seo_tag:
-  site_title: Plugin Media Extender
+  site_title: Extensão Media Extender
 ---
 
-# Documentação do plugin Media Extender
+# Documentação da Extensão Media Extender
 ## Introdução
 
 A extensão Media Extender foi desenvolvida pela empresa Dawntech. Atualmente, ela se encontra na versão 1.0 e está
