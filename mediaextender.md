@@ -6,7 +6,7 @@ seo_tag:
   site_title: PPlugin Mídia Extender
 ---
 
-# Documentação do plugin Mídia Extender
+# Documentação do plugin Media Extender
 ## Introdução
 
 A extensão Media Extender foi desenvolvida pela empresa Dawntech. Atualmente, ela se encontra na versão 1.0 e está
