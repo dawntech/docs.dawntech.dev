@@ -27,7 +27,7 @@ Para utilizar a extensão Bling em um contato inteligente, no bot Router associa
 3. Cole no input url do form.  ![UrlPaste](./images/mediaextender/media-extender3.jpeg)
 4. Clique em atualizar.  ![UrlMsg](./images/mediaextender/media-extender4.jpeg)
 
-## Nova url será copiada para área de transferência
+### Nova url será copiada para área de transferência
 ![UrlMsgCopy](./images/mediaextender/media-extender5.jpeg)
 
 Cole a url copiada na barra de endereço do navegador e acesse.  
