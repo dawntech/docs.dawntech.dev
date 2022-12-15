@@ -23,7 +23,7 @@ As mídias são armazenadas e acessadas com links expirados. Após a data de exp
 Para utilizar a extensão Bling em um contato inteligente, no bot Router associado ao contrato, vá até a Blip Store e procure a extensão Media Extender na aba de Extensões. Quando o encontrar, a ative nesse mesmo bot.
 
 1. Localize a extensão no router conforme os pontos 1 e 2 da imagem abaixo.  ![Start](./images/mediaextender/media-extender1.jpeg)
-2. Copie a URL da midia.  |![UrlCopy](./images/mediaextender/media-extender2.jpeg) | |:--:|
+2. Copie a URL da midia.  ![UrlCopy](./images/mediaextender/media-extender2.jpeg)
 3. Cole no input url do form.  ![UrlPaste](./images/mediaextender/media-extender3.jpeg)
 4. Clique em atualizar.  ![UrlMsg](./images/mediaextender/media-extender4.jpeg)
 
